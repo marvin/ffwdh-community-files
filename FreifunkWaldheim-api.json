@@ -23,12 +23,12 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2015-08-31T10:36:57.642Z"
+    "lastchange": "2015-09-13T10:36:57.642Z"
   },
   "techDetails": {
     "dns": [
       {
-        "domainname": "tup"
+        "domainname": "ffwdh"
       }
     ],
     "legals": [
@@ -53,8 +53,8 @@
     },
     "firmware": {
         "name": "gluon",
-        "url": "http://download.freifunk-dresden.de/firmware/",
-        "docs": "http://wiki.freifunk-dresden.de/index.php/Hauptseite"
+        "url": "http://firmware.freifunk-waldheim.de",
+        "docs": "http://gluon.readthedocs.org/"
     }
   },
   "api": "0.4.8"
